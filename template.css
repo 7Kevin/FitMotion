@@ -1,0 +1,812 @@
+body {
+	background-image: url("article31420695nieuw.jpg");
+	background-size: cover;
+
+
+
+
+}
+
+
+
+header {
+	background-color: whitesmoke;
+	height: 80px;
+	width: 1000px;
+	margin: 0px auto 0px auto;
+
+}
+
+.main {
+	height: 700px;
+	width: 1000px;
+	background-color: red;
+	margin: -10px auto 0px auto;
+	background: -webkit-linear-gradient(top, rgba(140,204,0,1) 0%,rgba(255,255,255,1) 100%);
+}
+
+.logo {
+	width: 110px;
+	margin: -16px 30px 10px 10px;
+	float: left;
+}
+
+.links {
+	float: left;
+	margin: 30px 10px 10px 10px;
+	text-decoration: none;
+	color: gray;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+}
+
+.links:hover {
+	color: yellowgreen;
+	border-bottom: 1px solid yellowgreen;
+
+}
+
+.foto1 {
+	width: 700px;
+	position: absolute;
+	display: inline;
+	margin-top: 50px; 
+
+}
+
+.foto2 {
+	width: 700px;
+	position: absolute;
+	display: inline;
+	margin-top: 50px;
+
+}
+
+.foto3 {
+	width: 700px;
+	position: absolute; 
+	display: inline;
+	margin-top: 50px;
+
+}
+
+.afb {
+	margin: 10px 0px 0px 150px;
+
+
+}
+
+.kaderachter {
+	height: 470px;
+}
+
+.intro {
+	width: 1000px;
+}
+
+.texthome {
+	text-align: center;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+}
+
+span {
+	font-size: 45pt;
+}
+
+footer {
+	background-color: whitesmoke;
+	height: 80px;
+	margin-top: 100px;
+	width: 1000px;
+	margin: 0px auto 0px auto;
+}
+
+.fit {
+	color: yellowgreen;
+	text-align: center;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+	font-size: 28pt;
+}
+
+.tekstfooter {
+	margin-top: 20px;
+	margin-left: 40px;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+	color: gray;
+}
+
+.overons {
+	display: none;
+	margin-top: 10px;
+
+}
+
+.kaderachter2 {
+	height: 100px;
+}
+
+.tekstoverons {
+	margin-left: 40px;
+	margin-top: 10px;
+	width: 400px;
+	float: left;
+
+}
+
+h1 {
+
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	margin-top: 20px; 
+	margin-bottom: 10px;
+	font-size: 15pt;
+	color: gray;
+}
+
+.paragraaf1 {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+	color: white;
+}
+
+.paragraaf2 {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+	color: white;
+}
+
+.foodtruck {
+	width: 500px;
+	height: 300px;
+	background-image: url("Truck met belettering -01.png");
+	background-size: cover;
+	float: left;
+	margin: 10px 10px 10px 50px;
+}
+
+.menukaart {
+	display: none;
+}
+
+.kaderachter3 {
+	height: 20px;
+	margin-top: 10px;
+}
+.titelmenu {
+	margin-top: 10px;
+	margin-left: 400px;
+}
+
+.tabelmenu {
+	margin-left: 100px;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+	color: gray;
+}
+
+.drinken {
+	margin-left: 360px;
+}
+
+.drink {
+	margin-left: 150px;
+}
+
+.voorger {
+	margin-left: 340px;
+}
+
+.nager {
+	margin-left: 350px;
+}
+
+h2 {
+	margin-left: 350px;
+	color: white;
+	font-size: 14pt;
+}
+
+.voor {
+	margin-left: 150px;
+}
+
+.pdf {
+	margin-left: 410px;
+	color: black;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+}
+
+.informatie {
+	display: none;
+}
+
+.kaderachter4 {
+	margin-top: 10px;
+	height: 50px;
+}
+
+.infotitel {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	margin-left: 0px;
+}
+
+.tekstinf1 {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	margin-left: 45px;
+	margin-top: 20px;
+	width: 400px;
+}
+
+.paragraafinf1 {
+	color: gray;
+}
+
+.tekstinf2 {
+	margin-top: 180px;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	width: 400px;
+	float: right;
+	margin-right: -152px;
+}
+
+.paragraafinf2 {
+	color: gray;
+}
+
+.titel2inf{
+	margin-top: 30px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+
+}
+
+.flyerafb {
+	background-image: url("Flyer-01.jpg");
+	background-size: cover;
+	width: 180px;
+	height: 250px;
+	float: right;
+	margin-top: -140px;
+	margin-right: 45px;
+
+}
+
+.pdfflyer {
+	margin-top: 130px;
+	float: right;
+	margin-right: -160px;
+	color: black;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+}
+
+h4 {
+
+}
+
+.eigenideeafb {
+	background-image: url("eigen idee.psd");
+	background-size: cover;
+	width: 290px;
+	height: 300px;
+	margin-top: 100px;
+}
+
+.pdfeigenidee{
+	margin-left: 40px;
+	color: black;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+}
+
+.contact {
+	display: none;
+	margin-top: 10px;
+}
+.kaderachter5 {
+	height: 50px;
+}
+
+.tekstcontact {
+	float: left;
+	margin: 150px 240px 10px -100px;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+	color: white;
+}
+.truck {
+	float: left;
+	background-image: url("truck achter.png");
+	background-size: cover;
+	width: 410px;
+	height: 430px;
+	margin-top: 60px;
+}
+
+.contacttabel {
+	position: absolute;
+	margin-top: 140px;
+	margin-left: 590px;
+}
+
+input {
+	width: 270px;
+}
+
+textarea {
+	width: 270px;
+}
+
+.sub {
+	margin-left: -170px;
+	width: 300;
+}
+
+
+
+@media screen and (max-width: 1200px) {
+.main {
+	width: 800px;
+	height: 700px;
+	margin: -8px auto 0px auto;
+}
+
+header {
+	height: 64px;
+	width: 800px;
+
+}
+
+
+.logo {
+	width: 88px;
+	margin: -12.8px 24px 8px 8px;
+}
+
+.links {
+	margin: 24px 8px 8px 8px;
+}
+
+.foto1 {
+	width: 560px;
+	margin-top: 40px; 
+
+}
+
+.foto2 {
+	width: 560px;
+	margin-top: 40px;
+
+}
+
+.foto3 {
+	width: 560px;
+	margin-top: 40px;
+
+}
+
+.afb {
+	margin: 8px 0px 0px 120px;
+
+
+}
+
+.kaderachter {
+	height: 376px;
+}
+
+.intro {
+	width: 800px;
+}
+
+
+span {
+	font-size: 36pt;
+}
+
+footer {
+	height: 64px;
+	margin-top: 0px;
+	width: 800px;
+}
+
+.fit { 
+	font-size: 22.4pt;
+}
+
+.tekstfooter {
+	margin-top: 16px;
+	margin-left: 32px;
+	font-size: 10pt;
+}
+
+.overons {
+	margin-top: 8px;
+
+}
+
+.kaderachter2 {
+	height: 80px;
+}
+
+.tekstoverons {
+	margin-left: 32px;
+	margin-top: 8px;
+	width: 320px;
+
+}
+
+h1 {
+
+	margin-top: 16px; 
+	margin-bottom: 8px;
+	font-size: 12pt;
+}
+
+.foodtruck {
+	width: 400px;
+	height: 240px;
+	margin: 8px 8px 8px 40px;
+}
+
+.kaderachter3 {
+	height: 16px;
+	margin-top: 8px;
+}
+.titelmenu {
+	margin-top: 8px;
+	margin-left: 320px;
+}
+
+.tabelmenu {
+	margin-left: 80px;
+}
+
+.drinken {
+	margin-left: 288px;
+}
+
+.drink {
+	margin-left: 120px;
+}
+
+.voorger {
+	margin-left: 272px;
+}
+
+.nager {
+	margin-left: 280px;
+}
+
+h2 {
+	margin-left: 280px;
+	font-size: 11.2pt;
+}
+
+.voor {
+	margin-left: 120px;
+}
+
+.pdf {
+	margin-left: 328px; 
+}
+
+.kaderachter4 {
+	margin-top: 8px;
+	height: 40px;
+}
+
+.tekstinf1 {
+	margin-left: 36px;
+	margin-top: 16px;
+	width: 320px;
+}
+
+.tekstinf2 {
+	margin-top: 144px;
+	width: 320px;
+	margin-right: -121.6px;
+}
+
+.titel2inf{
+	margin-top: 24px;
+	margin-bottom: 8px;
+
+}
+
+.flyerafb {
+	width: 144px;
+	height: 200px;
+	margin-top: -112px;
+	margin-right: 36px;
+
+}
+
+.pdfflyer {
+	margin-top: 104px;
+	margin-right: -128px;
+}
+
+h4 {
+
+}
+
+.eigenideeafb {
+	width: 232px;
+	height: 240px;
+	margin-top: 80px;
+}
+
+.pdfeigenidee{
+	margin-left: 32px;
+}
+
+.contact {
+	margin-top: 8px;
+}
+.kaderachter5 {
+	height: 40px;
+}
+
+.tekstcontact {
+	margin: 120px 192px 8px -80px;
+}
+.truck {
+	margin-left: -30px;
+	margin-right: 5px;
+	width: 328px;
+	height: 344px;
+	margin-top: 48px;
+}
+
+.contacttabel {
+	margin-top: 112px;
+	margin-left: 490px;
+}
+
+input {
+	width: 216px;
+}
+
+textarea {
+	width: 216px;
+}
+
+.sub {
+	margin-left: -220px;
+	width: 240;
+}
+
+
+}
+}
+
+@media screen and (max-width: 800px) {
+.main {
+	width: 600px;
+	height: 700px;
+	margin: -6.000000015px auto 0px auto;
+}
+
+header {
+	height: 48.0000001px;
+	width: 600px;
+
+}
+
+
+.logo {
+	width: 66.0000002px;
+	margin: -9.60000002px 18px 6.000000015px 6.000000015px;
+}
+
+.links {
+	margin: 18px 6.000000015px 6.000000015px 6.000000015px;
+}
+
+.foto1 {
+	width: 420.000001px;
+	margin-top: 30.0000001px; 
+
+}
+
+.foto2 {
+	width: 420.000001px;
+	margin-top: 30.0000001px;
+
+}
+
+.foto3 {
+	width: 420.000001px;
+	margin-top: 30.0000001px;
+
+}
+
+.afb {
+	margin: 6.000000015px 0px 0px 90.0000002px;
+
+
+}
+
+.kaderachter {
+	height: 282.000001px;
+}
+
+.intro {
+	width: 600px;
+}
+
+
+span {
+	font-size: 27.0000001pt;
+}
+
+footer {
+	height: 48.0000001px;
+	margin-top: 0px;
+	width: 600px;
+}
+
+.fit { 
+	font-size: 16.8pt;
+}
+
+.tekstfooter {
+	margin-top: 12px;
+	margin-left: 24.0000001px;
+	font-size: 7.50000002pt;
+}
+
+.overons {
+	margin-top: 6.000000015px;
+
+}
+
+.kaderachter2 {
+	height: 60.0000002px;
+}
+
+.tekstoverons {
+	margin-left: 24.0000001px;
+	margin-top: 6.000000015px;
+	width: 240.000001px;
+
+}
+
+h1 {
+
+	margin-top: 12px; 
+	margin-bottom: 6.000000015px;
+	font-size: 9.00000002pt;
+}
+
+.foodtruck {
+	width: 300.000001px;
+	height: 180px;
+	margin: 6.000000015px 6.000000015px 6.000000015px 30.0000001px;
+}
+
+.kaderachter3 {
+	height: 12px;
+	margin-top: 6.000000015px;
+}
+.titelmenu {
+	margin-top: 6.000000015px;
+	margin-left: 240.000001px;
+}
+
+.tabelmenu {
+	margin-left: 60.0000002px;
+}
+
+.drinken {
+	margin-left: 216.000001px;
+}
+
+.drink {
+	margin-left: 90.0000002px;
+}
+
+.voorger {
+	margin-left: 204.000001px;
+}
+
+.nager {
+	margin-left: 210.000001px;
+}
+
+h2 {
+	margin-left: 210.000001px;
+	font-size: 8.40000002pt;
+}
+
+.voor {
+	margin-left: 90.0000002px;
+}
+
+.pdf {
+	margin-left: 246.000001px; 
+}
+
+.kaderachter4 {
+	margin-top: 6.000000015px;
+	height: 30.0000001px;
+}
+
+.tekstinf1 {
+	margin-left: 27.0000001px;
+	margin-top: 12px;
+	width: 240.000001px;
+}
+
+.tekstinf2 {
+	margin-top: 108px;
+	width: 240.000001px;
+	margin-right: -91.2000002px;
+}
+
+.titel2inf{
+	margin-top: 18px;
+	margin-bottom: 6.000000015px;
+
+}
+
+.flyerafb {
+	width: 108px;
+	height: 150px;
+	margin-top: -84.0000002px;
+	margin-right: 27.0000001px;
+
+}
+
+.pdfflyer {
+	margin-top: 78.0000002px;
+	margin-right: -96.0000002px;
+}
+
+h4 {
+
+}
+
+.eigenideeafb {
+	width: 174px;
+	height: 180px;
+	margin-top: 60.0000002px;
+}
+
+.pdfeigenidee{
+	margin-left: 24.0000001px;
+}
+
+.contact {
+	margin-top: 6.000000015px;
+}
+.kaderachter5 {
+	height: 30.0000001px;
+}
+
+.tekstcontact {
+	margin: 90.0000002px 144px 6.000000015px -60.0000002px;
+}
+.truck {
+	margin-left: -22.5000001px;
+	margin-right: 3.75000001px;
+	width: 246.000001px;
+	height: 258.000001px;
+	margin-top: 36.0000001px;
+}
+
+.contacttabel {
+	margin-top: 84.0000002px;
+	margin-left: 367.500001px;
+}
+
+input {
+	width: 162px;
+}
+
+textarea {
+	width: 162px;
+}
+
+.sub {
+	margin-left: -165px;
+	width: 180px;
+}
+
+
+}
+}
+
